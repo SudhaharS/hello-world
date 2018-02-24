@@ -1,3 +1,3 @@
 # hello-world
 Hello world repository
-Trying out Github. Going to learn and work thoroughly on this.
+Trying out Github with high interest. Learning and working thoroughly on this.
